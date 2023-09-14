@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386798665565",
+    "project_id": "chatapp-86bee",
+    "storage_bucket": "chatapp-86bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386798665565:android:ba270e922134d0c4d0b2b4",
+        "android_client_info": {
+          "package_name": "com.example.chat_route_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386798665565-je4jmubm1q4baconjaou9fnaf992n1jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkjKKOREsFvFP3LMEMjNskanHDjziN-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386798665565-je4jmubm1q4baconjaou9fnaf992n1jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
